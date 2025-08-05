@@ -24,25 +24,12 @@ I’m especially drawn to responsive, clean systems, and tools that make dev wor
 
 ### 🧰 What I Use
 
-#### Languages  
-&nbsp;&nbsp;&nbsp;&nbsp;🔸 JavaScript  
-&nbsp;&nbsp;&nbsp;&nbsp;🔸 Python  
-&nbsp;&nbsp;&nbsp;&nbsp;🔸 C  
-&nbsp;&nbsp;&nbsp;&nbsp;🔸 Shell  
-
-#### Frameworks & Libraries  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 React  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 Node.js  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 Next  
-
-#### Databases  
-&nbsp;&nbsp;&nbsp;&nbsp;🗄️ SQL  
-&nbsp;&nbsp;&nbsp;&nbsp;🍃 MongoDB  
-
-#### Tools  
-&nbsp;&nbsp;&nbsp;&nbsp;🔧 Git  
-&nbsp;&nbsp;&nbsp;&nbsp;🐳 Docker  
-&nbsp;&nbsp;&nbsp;&nbsp;🌐 Netlify / Render  
+| Languages       | Frameworks & Libraries | Databases      | Tools & Platforms    |
+|-----------------|------------------------|----------------|----------------------|
+| JavaScript 🔸   | React 🔹               | SQL 🗄️         | Git 🔧               |
+| Python 🔸       | Node.js 🔹             | MongoDB 🍃     | Docker 🐳            |
+| C 🔸            | Express 🔹             |                | Netlify / Render 🌐  |
+| Shell 🔸        |                        |                |                      |
 
 ---
 
