@@ -1,51 +1,67 @@
-<h1 align="center">Hi 👋, I'm Ray Demo</h1>
-<h3 align="center">Full-Stack Software Engineer | Problem Solver | Tech Enthusiast</h3>
+<h1 align="center">Hey there, I'm Raymond👋</h1>
+<h3 align="center">Full-Stack Software Engineer | ALX-Holberton Graduate </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="https://linkedin.com/in/aa-raymond" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
+  <a href="https://twitter.com/aa__raymond" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🧠 About Me
+### 👨‍💻 About Me
 
-- 🌍 I'm a Full-Stack Software Engineer passionate about building efficient, scalable applications  
-- 💻 I work with **JavaScript**, **React**, **Node.js**, **Python**, **SQL**, **MongoDB**, and **more**  
-- 👯 I’m looking to collaborate on cool, impactful open-source projects  
-- 💬 Ask me about APIs, frontend/backend architecture, or cloud integrations  
-- 🌱 Currently deepening my knowledge of **DevOps** and **AI tools**  
-- ⚡ Fun fact: I love road trips & tech podcasts! 🎧🚗
+I'm a graduate of the ALX-Holberton Software Engineering program
 
----
+From writing low-level C programs to building web apps with JavaScript and Python, I’ve picked up a wide range of skills that help me turn ideas into working projects. I enjoy solving real-world problems, learning in public, and building with others.
 
-### 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+I’m especially drawn to responsive, clean systems, and tools that make dev work smoother and faster.
 
 ---
 
-### 📊 GitHub Stats
+### 🧰 What I Use
+
+#### Languages  
+&nbsp;&nbsp;&nbsp;&nbsp;🔸 JavaScript  
+&nbsp;&nbsp;&nbsp;&nbsp;🔸 Python  
+&nbsp;&nbsp;&nbsp;&nbsp;🔸 C  
+&nbsp;&nbsp;&nbsp;&nbsp;🔸 Shell  
+
+#### Frameworks & Libraries  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 React  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Node.js  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Next  
+
+#### Databases  
+&nbsp;&nbsp;&nbsp;&nbsp;🗄️ SQL  
+&nbsp;&nbsp;&nbsp;&nbsp;🍃 MongoDB  
+
+#### Tools  
+&nbsp;&nbsp;&nbsp;&nbsp;🔧 Git  
+&nbsp;&nbsp;&nbsp;&nbsp;🐳 Docker  
+&nbsp;&nbsp;&nbsp;&nbsp;🌐 Netlify / Render  
+
+---
+
+### 🤝 Let’s Connect
+
+I’m always open to working with others — whether it’s pair programming, learning together, or building something small but useful. I also just like meeting other devs and hearing what they’re working on.
+
+You can reach me here:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/aa-raymond)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=flat-square)](https://twitter.com/aa__raymond)
+
+---
+
+### ⚡ Random Fact
+
+I really enjoy good music and lofi sounds.  
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raydemo&show_icons=true&theme=github_dark&hide=issues&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raydemo&theme=github-dark" width="48%"/>
-</p>
-
----
-
-### 🔤 Dynamic Typing Animation
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=440&lines=Full-Stack+Software+Engineer;Open+Source+Contributor;Lifelong+Learner+%F0%9F%93%9A;Let's+Build+Something+Cool+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=450&lines=Full-Stack+Engineer;Learning+Never+Stops;The+Future+is+Tech!" alt="Typing SVG" />
 </p>
