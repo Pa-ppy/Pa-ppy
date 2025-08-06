@@ -18,7 +18,7 @@ I'm a graduate of the ALX-Holberton Software Engineering program
 
 From writing low-level C programs to building web apps with JavaScript and Python, I’ve picked up a wide range of skills that help me turn ideas into working projects. I enjoy solving real-world problems, learning in public, and building with others.
 
-I’m especially drawn to responsive, clean systems, and tools that make dev work smoother and faster.
+I’m especially drawn to responsive, clean systems, and tools that make dev work smoother and faster. I really enjoy good music and lofi sounds.  
 
 ---
 
@@ -26,26 +26,10 @@ I’m especially drawn to responsive, clean systems, and tools that make dev wor
 
 | Languages       | Frameworks & Libraries | Databases      | Tools & Platforms    |
 |-----------------|------------------------|----------------|----------------------|
-| JavaScript 🔸   | React 🔹               | SQL 🗄️         | Git 🔧               |
+| JavaScript 🔸   | Next 🔹                | SQL 🗄️         | Git 🔧               |
 | Python 🔸       | Node.js 🔹             | MongoDB 🍃     | Docker 🐳            |
-| C 🔸            | Express 🔹             |                | Netlify / Render 🌐  |
-| Shell 🔸        |                        |                |                      |
-
----
-
-### 🤝 Let’s Connect
-
-I’m always open to working with others — whether it’s pair programming, learning together, or building something small but useful. I also just like meeting other devs and hearing what they’re working on.
-
-You can reach me here:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/aa-raymond)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=flat-square)](https://twitter.com/aa__raymond)
-
----
-
-### ⚡ Random Fact
-
-I really enjoy good music and lofi sounds.  
+| C/C++ 🔸        | Express 🔹             |                | Netlify / Render 🌐  |
+|                 |                        |                |                      |
 
 ---
 
