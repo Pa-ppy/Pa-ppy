@@ -29,7 +29,6 @@ I’m especially drawn to responsive, clean systems, and tools that make dev wor
 | JavaScript 🔸   | Next 🔹                | SQL 🗄️         | Git 🔧               |
 | Python 🔸       | Node.js 🔹             | MongoDB 🍃     | Docker 🐳            |
 | C/C++ 🔸        | Express 🔹             |                | Netlify / Render 🌐  |
-|                 |                        |                |                      |
 
 ---
 
