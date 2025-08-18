@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Raymond👋</h1>
-<h3 align="center">Full-Stack Software Engineer | ALX-Holberton Graduate </h3>
+<h3 align="center">Software Engineer | ALX-Holberton Graduate </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/aa-raymond" target="_blank">
@@ -33,5 +33,5 @@ I’m especially drawn to responsive, clean systems, and tools that make dev wor
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=450&lines=Full-Stack+Engineer;Learning+Never+Stops;The+Future+is+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=450&lines=Software+Engineer;Learning+Never+Stops;The+Future+is+Tech!" alt="Typing SVG" />
 </p>
